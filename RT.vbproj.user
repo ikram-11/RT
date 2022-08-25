@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Delete track.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Delete.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Field.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Folder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Meetingdata.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Multiple file.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Server.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Single file.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
